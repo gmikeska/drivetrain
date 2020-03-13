@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version     = Drivetrain::VERSION
   spec.authors     = ["Greg Mikeska"]
   spec.email       = ["gmikeska07@gmail.com"]
-  spec.homepage    = "TODO"
+  spec.homepage    = "https://github.com/gmikeska/drivetrain"
   spec.summary     = "Rails based CMS and Web App Framework"
   spec.description = "A highly customizable CMS and Web App Framework for Rails"
   spec.license     = "MIT"
